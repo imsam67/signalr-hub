@@ -1,6 +1,6 @@
-# SignalR Test - Chat Hub (ASP.NET Core 5 - September 2021)
+# SignalR Test - Chat Hub (ASP.NET Core 5)
 
-This project is a test app that provides simple chat infrastructure using SignalR.
+This project is a test app that provides a simple chat infrastructure using SignalR.
 
 ## License
-Private
+MIT
